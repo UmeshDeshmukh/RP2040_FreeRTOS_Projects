@@ -1,2 +1,2 @@
-# RP2040_FreeRTOS_Projectss
+# RP2040_FreeRTOS_Projects
 .
