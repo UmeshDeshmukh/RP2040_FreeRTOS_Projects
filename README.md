@@ -15,3 +15,4 @@ https://mcuoneclipse.com/2022/09/17/picoprobe-using-the-raspberry-pi-pico-as-deb
 
 (*)Access openOCD from wsl2 vscode
 https://www.rustyelectrons.com/posts/3-rp2040-development-with-wsl/
+src/openocd -f interface/cmsis-dap.cfg -f target/rp2040.cfg -s tcl -c "bindto 0.0.0.0"
